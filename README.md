@@ -24,10 +24,10 @@ A comprehensive showcase of the professional tools, advanced AI models, data ana
 
 ### 📊 Data Intelligence, Analytics & Automation
 * ![MathWorks](https://img.shields.io/badge/MathWorks-ED1C24?style=flat-square&logo=mathworks&logoColor=white) **MathWorks:** Advanced mathematical computing, algorithmic modeling, and data analytics.
+* ![Google Cloud](https://img.shields.io/badge/Google_Flow-4285F4?style=flat-square&logo=googlecloud&logoColor=white) **Google Integration Flow:** Cloud-based enterprise application integration and automated data workflows.
 * ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white) **Looker Studio & Sheets:** Dynamic business intelligence dashboards & live tracking engines.
 * 📈 **Power BI:** Interactive data visualization, ETL pipelines, and corporate reporting.
 * 🧠 **MindMeister:** Advanced mind mapping, concept framing, and strategic blueprinting.
-* ⚡ **Google Flow:** Business process automation and streamlined operational workflows.
 
 ### 💻 Technical Execution, Browsing & Documentation
 * ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=brave&logoColor=white) **Brave Browser:** Privacy-centric browsing, Web3 optimization, and secure analytical research.
@@ -48,7 +48,6 @@ A comprehensive showcase of the professional tools, advanced AI models, data ana
 * 📄 **Gama:** Dynamic presentation creation and structured document generation.
 
 ### ☁️ Enterprise Cloud, Storage & Collaboration
-* ![Google Cloud](https://img.shields.io/badge/Google_Flow-4285F4?style=flat-square&logo=googlecloud&logoColor=white) **Google Integration Flow:** Cloud-based enterprise application integration and automated data workflows.
 * ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white) **Google Drive:** Structured enterprise asset synchronization, cloud storage architecture, and data collaboration.
 * ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) **Microsoft Azure:** Cloud infrastructure management, scaling, and deployment.
 * 📁 **Microsoft OneDrive:** Secure enterprise asset sync and repository management.
