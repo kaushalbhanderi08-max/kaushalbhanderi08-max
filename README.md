@@ -63,6 +63,24 @@ A comprehensive showcase of the professional tools, advanced AI models, data ana
 
 ---
 
+## 📜 Professional Certifications & Verified Badges
+
+I have distributed my extensive portfolio of 620+ professional credentials into dedicated, ecosystem-specific repositories for clear strategic mapping:
+
+* ☁️ **Cloud & Infrastructure:**
+  * 📦 [AWS Portfolio ↗](https://github.com/kaushalbhanderi08-max/AWS-Certificates-and-Badges) — Amazon Web Services architecture & badges.
+  * 🖥️ [Microsoft Portfolio ↗](https://github.com/kaushalbhanderi08-max/Microsoft-Certificates-and-Badges) — Azure cloud & enterprise credentials.
+
+* 🤖 **AI, Advanced Analytics & Data Systems:**
+  * 🌐 [Google Portfolio ↗](https://github.com/kaushalbhanderi08-max/Google-Certificates-and-Badges) — Cloud computing, AI frameworks, & developer tools.
+  * 🧠 [IBM Portfolio ↗](https://github.com/kaushalbhanderi08-max/IBM-Certificates-and-Badges) — Data intelligence & enterprise tech solutions.
+  * 📊 [MathWorks Portfolio ↗](https://github.com/kaushalbhanderi08-max/MathWorks-Certificates-and-Badges) — Computational modeling & data analytics.
+
+* 🌍 **Global Policy & Strategic Economics:**
+  * 🏛️ [World Bank Portfolio ↗](https://github.com/kaushalbhanderi08-max/World-Bank-Credentials) — International development & economic strategy.
+
+---
+
 ## 📈 Core Focus Areas
 🚀 **Emerging Tech:** Quantum Computing | Artificial Intelligence | Web3 & Blockchain | Robotics  
 📊 **Data & Analytics:** Quant Forecasting | Algorithmic Decision Support | Trend Analysis  
