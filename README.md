@@ -89,8 +89,11 @@ I have distributed my extensive portfolio of 620+ professional credentials into 
 
 ---
 
-## 📂 Featured Projects
-* 📊 **[Diwali 2026 Stocks Sentiment Engine](./diwali-2026-stocks-sentiment-engine):** A live automated quantitative dashboard for advanced stock selection and benchmarking.
+### 📂 Featured Projects
+
+🚀 **[Quantum Civilizational Engine (QCE)](https://kaushalbhanderi08-max.github.io/Quantum-Civilizational-Engine/):** A 14-Channel Topological Quantum Framework for Planetary-Scale Simulation, integrating 16 global data streams, a 1350-qubit planetary simulation engine, and autonomous cybernetic orchestration via GitHub Actions. ([GitHub Repository ↗](https://github.com/kaushalbhanderi08-max/Quantum-Civilizational-Engine))
+🌐 **[Planetary-Cybernetic-Quantum-Matrix](https://github.com/kaushalbhanderi08-max/Planetary-Cybernetic-Quantum-Matrix):** An advanced systemic architecture mapping microscopic molecular mechanics directly to macroscopic civilizational scaling and long-term strategic forecasting. ([GitHub Repository ↗](https://github.com/kaushalbhanderi08-max/Planetary-Cybernetic-Quantum-Matrix))
+📊 **Diwali 2026 Stocks Sentiment Engine:** A live automated quantitative dashboard for advanced stock selection and benchmarking.
 
 ---
 💡 *Always analyzing data to project the future architectural frameworks of technology and civilization.*
