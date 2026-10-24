@@ -91,6 +91,8 @@ I have distributed my extensive portfolio of 620+ professional credentials into 
 
 ### 📂 Featured Projects
 
+🌸 **[Fragrance Journey Simulation: ASI Core Benchmark & Neural-Quantum Architecture](https://kaushalbhanderi08-max.github.io/Fragrance-Journey-Simulation-ASI-Core-Benchmark-Neural-Quantum-Architecture/):** A foundational ASI benchmark simulation bridging microscopic molecular fragrance mechanics to automated industrial supply chains, human wearable sensors, and autonomous cybernetic orchestration. ([GitHub Repository ↗](https://github.com/kaushalbhanderi08-max/Fragrance-Journey-Simulation-ASI-Core-Benchmark-Neural-Quantum-Architecture))
+
 🚀 **[Quantum Civilizational Engine (QCE)](https://kaushalbhanderi08-max.github.io/Quantum-Civilizational-Engine/):** A 14-Channel Topological Quantum Framework for Planetary-Scale Simulation, integrating 16 global data streams, a 1350-qubit planetary simulation engine, and autonomous cybernetic orchestration via GitHub Actions. ([GitHub Repository ↗](https://github.com/kaushalbhanderi08-max/Quantum-Civilizational-Engine))
 
 🌐 **[Planetary-Cybernetic-Quantum-Matrix](https://github.com/kaushalbhanderi08-max/Planetary-Cybernetic-Quantum-Matrix):** An advanced systemic architecture mapping microscopic molecular mechanics directly to macroscopic civilizational scaling and long-term strategic forecasting. ([GitHub Repository ↗](https://github.com/kaushalbhanderi08-max/Planetary-Cybernetic-Quantum-Matrix))
